@@ -1,4 +1,4 @@
-# Proyek Analisis Data: Bike Sharing Dataset ✨
+# Proyek Analisis Data: Bike Sharing Dataset 
 
 Proyek ini menganalisis data penyewaan sepeda Capital Bikeshare tahun 2011 sampai 2012 dari [Bike Sharing Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset). Analisis menjawab dua pertanyaan bisnis:
 
