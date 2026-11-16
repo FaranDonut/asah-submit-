@@ -53,10 +53,3 @@ Jalankan perintah ini dari folder `submission`:
 streamlit run dashboard/dashboard.py
 ```
 
-## Deploy ke Streamlit Cloud
-
-1. Upload folder `submission` ke repository GitHub (pastikan `dashboard/main_data.csv` dan `requirements.txt` ikut ter-upload).
-2. Buka [share.streamlit.io](https://share.streamlit.io) dan login dengan akun GitHub.
-3. Klik **New app**, pilih repository dan branch.
-4. Isi **Main file path** dengan `dashboard/dashboard.py`, lalu klik **Deploy**.
-5. Salin link aplikasi yang dihasilkan ke `url.txt`.
