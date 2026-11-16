@@ -1,1 +1,1 @@
-https://[nama-app-anda].streamlit.app/
+https://nepmeunf28cssx5juipqta.streamlit.app/
